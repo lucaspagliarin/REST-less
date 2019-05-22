@@ -4,6 +4,10 @@ GET http://localhost:3000/subscribers
 GET http://localhost:3000/subscribers/5ce5b641db04d0327c242981
 
 ###
+
+get https://rest-subscribers.herokuapp.com/localhost:3000/subscribers
+
+###
 POST http://localhost:3000/subscribers
 Content-Type: application/json
 
